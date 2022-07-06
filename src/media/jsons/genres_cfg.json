@@ -1,0 +1,103 @@
+{
+  "Class": {
+    "Action": {
+      "Shoot’em up": {
+
+      },
+      "Arena shooter": {
+
+      },
+      "Scroll shooter": {
+
+      },
+      "Platformer": {
+
+      },
+      "Fighting": {
+
+      },
+      "3D shooter": {
+
+      },
+      "Rail shooter": {
+
+      },
+      "Quick time": {
+
+      },
+      "Rhythm games": {
+
+      }
+    },
+    "Simulation": {
+      "Flight simulator": {
+
+      },
+      "Auto simulator": {
+
+      },
+      "Space simulator": {
+
+      },
+      "Life simulator": {
+
+      }
+    },
+    "Strategy": {
+      "Economy strategy": {
+
+      },
+      "Wargame": {
+
+      },
+      "Real time strategy": {
+
+      },
+      "Global strategy": {
+
+      }
+    },
+    "Role-playing Games": {
+      "Roguelike": {
+
+      },
+      "JRPG": {
+
+      },
+      "MMORPG": {
+
+      },
+      "RPG": {
+
+      }
+    },
+    "Adventure": {
+      "Interactive fiction": {
+
+      },
+      "Text adventure": {
+
+      }
+    },
+    "Other": {
+      "Puzzle": {
+
+      },
+      "Stealth action": {
+
+      },
+      "Survival horror": {
+
+      },
+      "Diablo like": {
+
+      },
+      "Dynamic adventure": {
+
+      },
+      "Tower defense": {
+
+      }
+    }
+  }
+}
